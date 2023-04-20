@@ -9,8 +9,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxR92&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxR92&theme=neon-palenight&hide_border=true)
-
 ## Repos
 
 [![My Movie History](https://github-readme-stats.vercel.app/api/pin/?username=MaxR92&repo=mymoviehistory&show_owner=true)](https://github.com/MaxR92/mymoviehistory)
