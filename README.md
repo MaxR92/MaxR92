@@ -15,9 +15,9 @@
 
 [![My Movie History](https://github-readme-stats.vercel.app/api/pin/?username=MaxR92&repo=mymoviehistory&show_owner=true)](https://github.com/MaxR92/mymoviehistory)
 
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
+[![vue-first-site](https://github-readme-stats.vercel.app/api/pin/?username=MaxR92&repo=vue-first-site&show_owner=true)](https://github.com/MaxR92/vue-first-site)
 
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
+[![calculator-project](https://github-readme-stats.vercel.app/api/pin/?username=MaxR92&repo=calculator-project&show_owner=true)](https://github.com/MaxR92/calculator-project)
 
 
 
