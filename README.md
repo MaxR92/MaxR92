@@ -19,6 +19,3 @@
 
 [![calculator-project](https://github-readme-stats.vercel.app/api/pin/?username=MaxR92&repo=calculator-project&show_owner=true)](https://github.com/MaxR92/calculator-project)
 
-
-
-![](https://komarev.com/ghpvc/?username=shinokada)
